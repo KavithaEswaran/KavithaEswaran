@@ -1,5 +1,10 @@
 ### Hi there 👋
+<h1 align="center">Hi 👋, I'm Kavitha</h1>
+<h3 align="center">Cloud Support DevOps Program(Trainee) @ Temasek Polytechnic In Partnership with Microsoft, Generation Singapore</h3>
 
+**Organize by:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Our Business Partner:**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Area of Study:**
+
+<img src="https://user-images.githubusercontent.com/81150223/117519640-f3053900-afd6-11eb-8a2d-71c4eb849e23.jpg" width="80" title="hover text"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/81150223/117519854-095fc480-afd8-11eb-97e9-6239346a31f7.png" width="80" title="hover text"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/81150223/117520107-36f93d80-afd9-11eb-908c-89ca42248f65.png" width="80" title="hover text"> 
 <!--
 **KavithaEswaran/KavithaEswaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
